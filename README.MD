@@ -29,7 +29,7 @@
   - https://www.npmjs.com/package/convert-array-to-csv
   - https://www.npmjs.com/package/@aternus/csv-to-xlsx
 
-  Aproveito para divulgar o curso do meu Chará, o cara é muito bom!
+  Aproveito para divulgar o curso do meu Xará, o cara é muito bom!
   
   - Curso Desenvolvimento Web FullStack
     - https://programadorbr.com/?src=yttutbot
