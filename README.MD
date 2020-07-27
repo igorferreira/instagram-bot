@@ -1,8 +1,8 @@
 # Instagram bot
 
-Este bot contar e ordenar profiles indicados como comentario em um post no instagram.
+Este bot conta e ordena profiles indicados como comentario em um post no instagram no perfil do [@progbr](https://www.instagram.com/progbr/) no [instagram](https://www.instagram.com/).,
 
-Este bot é original do video do meu xará Igor Oliveira do canal "Programador Br - Tutoriais".
+Este bot é originado do video do meu xará Igor Oliveira do canal "Programador Br - Tutoriais".
 
 [Canal do Programador Br Tutoriais](https://www.youtube.com/channel/UC5WWNfEzz8gOzijWT9tsW8w)
 
@@ -16,7 +16,7 @@ Este bot é original do video do meu xará Igor Oliveira do canal "Programador B
 
 3. Aprender sobre o puppeteer para fazer web crawler ( scraping ).
 
-## O que fiz a mais...
+## O que fiz a mais
 
 1. converti o array ordenado para um arquivo csv.
 2. converti o arquivo csv para xlsx.
