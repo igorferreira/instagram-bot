@@ -1,0 +1,19 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "description": "bot para instagram",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "igorferreira",
+  "license": "ISC",
+  "dependencies": {
+    "@aternus/csv-to-xlsx": "^1.0.15",
+    "convert-array-to-csv": "^2.0.0",
+    "libreoffice-convert": "^1.1.1",
+    "puppeteer": "^5.2.1",
+    "write": "^2.0.0"
+  }
+}
