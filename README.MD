@@ -23,9 +23,9 @@
 
 ## Para executar
 
-    ```shell
-    make run
-    ```
+```bash
+make run
+```
 
 ## Referencias
 
